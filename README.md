@@ -1,2 +1,2 @@
-# wiki
+# Forum
 MailObjects Wikipedia
